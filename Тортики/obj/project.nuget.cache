@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "X7LyosMIUaubZjK9Xu1dBZpYeEE86rmZlBYp9GorntW0IZRPXCSxeIgkLDOBooHcm/u6/Y3m/ajCDxy1SvHZbw==",
+  "success": true,
+  "projectFilePath": "D:\\Тортики\\Тортики\\Тортики.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user6\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\user6\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
